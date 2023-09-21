@@ -1,1 +1,7 @@
 # Calculadora_distribuida
+Utilizando los conceptos de Autonomous Decentralized Service Oriented Architecture (ADSOA), se contruyó una aplicación de calculadora que implementa toda la teoría propuesta de los sistemas decentralizados.
+
+ADSOA es un paradigma de diseño que permite la creación de sistemas descentralizados compuestos por módulos independientes capaces de operar de manera autónoma e interactuar entre sí, esto previene al sistema de fallas catastróficas, asgurando la continuidad de las operaciones que el sistema realiza.
+ADOSOA permite un  enfoque robusto y tolerante a fallos para el diseño de sistemas, esto debido a que permite que los componentes funcionen de manera independiente mientras trabajan colectivamente consiguiendo los objetivos generales del sistema. 
+Esta arquitectura descentralizada garantiza que el sistema siga siendo operativo incluso en caso de fallos de componentes. 
+Además, el mantenimiento, mejoras y reparación pueden llevarse a cabo sin interrumpir la funcionalidad del sistema gracias al enfoque de microservicios.
